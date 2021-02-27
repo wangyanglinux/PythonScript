@@ -208,8 +208,8 @@ class RequestApi(object):
 # 输入讯飞开放平台的appid，secret_key和待转写的文件路径
 if __name__ == '__main__':
     api = RequestApi(
-        appid="603a1903",
-        secret_key="43ad8f1d1ab68282783c151f70474b23",
+        appid="111",
+        secret_key="112321321",
         upload_file_path=r"C:/Users/WangYang/Desktop/录音文件/222.m4a",
         to_file=r"C:/Users/WangYang/Desktop/录音文件/222.txt"
     )
